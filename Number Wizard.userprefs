@@ -1,5 +1,5 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="../UnityText101/Assets/TextController.cs">
     <Files>
       <File FileName="../UnityText101/Assets/TextController.cs" Line="258" Column="32" />
